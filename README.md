@@ -14,6 +14,7 @@ A Gmail client which uses gmail API to send emails from node client
 ## Send Email
 
 * use `/api/v1/gmailer` endpoint to send message
+
   ```json
     {
         "name": "your name",
